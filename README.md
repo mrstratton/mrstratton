@@ -1,3 +1,6 @@
+# Hello 
+## Hello
+
 - 👋 Hi, I’m @mrstratton
 - 👀 I’m interested in becoming a better programmer and finding my place in the world of software development.
 - 🌱 I’m currently learning Python and Go while working on a Computer Science degree.
